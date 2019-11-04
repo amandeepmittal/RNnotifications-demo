@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:256218572662:android:ac0489ed12445acd587c57",
+        "mobilesdk_app_id": "1:256218572662:android:7ecf7bf9400433b3587c57",
         "android_client_info": {
-          "package_name": "com.jscrambler.amanhimself"
+          "package_name": "com.rnnotifications"
         }
       },
       "oauth_client": [
