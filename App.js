@@ -115,9 +115,9 @@ const App = () => {
     LocalNotification()
   }
 
-  // const handleScheduleNotification = () => {
-  //   ScheduledLocalNotification()
-  // }
+  const handleScheduleNotification = () => {
+    ScheduledLocalNotification()
+  }
 
   return (
     <View style={styles.container}>
@@ -125,12 +125,12 @@ const App = () => {
       <View style={{ marginTop: 20 }}>
         <Button title={'Local Push Notification'} onPress={handleButtonPress} />
       </View>
-      {/* <View style={{ marginTop: 20 }}>
+      <View style={{ marginTop: 20 }}>
         <Button
           title={'Scheduled Local Push Notification'}
           onPress={handleScheduleNotification}
         />
-      </View> */}
+      </View>
     </View>
   )
 }
