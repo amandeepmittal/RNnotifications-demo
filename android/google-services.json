@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "256218572662",
+    "firebase_url": "https://rnexpo0.firebaseio.com",
+    "project_id": "rnexpo0",
+    "storage_bucket": "rnexpo0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256218572662:android:ac0489ed12445acd587c57",
+        "android_client_info": {
+          "package_name": "com.jscrambler.amanhimself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256218572662-f6r6n9s140rd5iji5rkmmapttj9g0o70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZ_1Ye80Z7m-F-SYMzc1JCiwBCwFMDa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256218572662-f6r6n9s140rd5iji5rkmmapttj9g0o70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256218572662-6f9c9p7kfo0s7jisctbc44n44rjt2et4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crowdboticsapps.socialappdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
